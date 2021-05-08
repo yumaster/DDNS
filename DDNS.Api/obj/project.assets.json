@@ -1,0 +1,142 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aliyun.Acs.Alidns/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Aliyun.Acs.Core": "1.0.1"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Aliyun.Acs.Alidns.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Aliyun.Acs.Alidns.dll": {}
+        }
+      },
+      "Aliyun.Acs.Core/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/Aliyun.Acs.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Aliyun.Acs.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aliyun.Acs.Alidns/1.0.1": {
+      "sha512": "C7tJsckFLdO7MkbBHEcVQ0ohpcPy+45BLyr7A895o4v9QvTxjIe6QQzJGSOf8R2vNhPk8c6YzR+7K0fyRBh8/g==",
+      "type": "package",
+      "path": "aliyun.acs.alidns/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "aliyun.acs.alidns.1.0.1.nupkg.sha512",
+        "aliyun.acs.alidns.nuspec",
+        "lib/netcoreapp2.0/Aliyun.Acs.Alidns.dll",
+        "lib/netcoreapp2.1/Aliyun.Acs.Alidns.dll",
+        "lib/netcoreapp2.2/Aliyun.Acs.Alidns.dll",
+        "lib/netcoreapp3.0/Aliyun.Acs.Alidns.dll"
+      ]
+    },
+    "Aliyun.Acs.Core/1.0.1": {
+      "sha512": "DFJxzUyCS+rttqviqIxY6cr9qzsSWJ0VzkUXDL/GKULZTmYXVFYvQmHjzKxoQtrSvOTwAm7oxbzywogVcnuP3A==",
+      "type": "package",
+      "path": "aliyun.acs.core/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "aliyun.acs.core.1.0.1.nupkg.sha512",
+        "aliyun.acs.core.nuspec",
+        "lib/netcoreapp2.0/Aliyun.Acs.Core.dll",
+        "lib/netcoreapp2.1/Aliyun.Acs.Core.dll",
+        "lib/netcoreapp2.2/Aliyun.Acs.Core.dll",
+        "lib/netcoreapp3.0/Aliyun.Acs.Core.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Aliyun.Acs.Alidns >= 1.0.1",
+      "Aliyun.Acs.Core >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\ddns\\src\\DDNS.Api\\DDNS.Api.csproj",
+      "projectName": "DDNS.Api",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\ddns\\src\\DDNS.Api\\DDNS.Api.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\ddns\\src\\DDNS.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Aliyun.Acs.Alidns": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
+          "Aliyun.Acs.Core": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

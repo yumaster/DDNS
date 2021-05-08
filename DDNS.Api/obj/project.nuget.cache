@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QabKUKJZZhPjCM/v659XIQ8nHVa2+XZ+NMQO8D/AtjzBKQuGLbrF94D1j+/4R1vGSapP1BqX+T5QljdAOAFWMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\ddns\\src\\DDNS.Api\\DDNS.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\aliyun.acs.alidns\\1.0.1\\aliyun.acs.alidns.1.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\aliyun.acs.core\\1.0.1\\aliyun.acs.core.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DDNS.Api/1.0.0": {
+        "dependencies": {
+          "Aliyun.Acs.Alidns": "1.0.1",
+          "Aliyun.Acs.Core": "1.0.1"
+        },
+        "runtime": {
+          "DDNS.Api.dll": {}
+        }
+      },
+      "Aliyun.Acs.Alidns/1.0.1": {
+        "dependencies": {
+          "Aliyun.Acs.Core": "1.0.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Aliyun.Acs.Alidns.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      },
+      "Aliyun.Acs.Core/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.0/Aliyun.Acs.Core.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDNS.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aliyun.Acs.Alidns/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C7tJsckFLdO7MkbBHEcVQ0ohpcPy+45BLyr7A895o4v9QvTxjIe6QQzJGSOf8R2vNhPk8c6YzR+7K0fyRBh8/g==",
+      "path": "aliyun.acs.alidns/1.0.1",
+      "hashPath": "aliyun.acs.alidns.1.0.1.nupkg.sha512"
+    },
+    "Aliyun.Acs.Core/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DFJxzUyCS+rttqviqIxY6cr9qzsSWJ0VzkUXDL/GKULZTmYXVFYvQmHjzKxoQtrSvOTwAm7oxbzywogVcnuP3A==",
+      "path": "aliyun.acs.core/1.0.1",
+      "hashPath": "aliyun.acs.core.1.0.1.nupkg.sha512"
+    }
+  }
+}

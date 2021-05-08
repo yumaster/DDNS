@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\bin\Debug\netcoreapp3.1\DDNS.Api.deps.json
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\bin\Debug\netcoreapp3.1\DDNS.Api.dll
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\bin\Debug\netcoreapp3.1\DDNS.Api.pdb
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\obj\Debug\netcoreapp3.1\DDNS.Api.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\obj\Debug\netcoreapp3.1\DDNS.Api.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\obj\Debug\netcoreapp3.1\DDNS.Api.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\obj\Debug\netcoreapp3.1\DDNS.Api.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\obj\Debug\netcoreapp3.1\DDNS.Api.dll
+C:\Users\Administrator\Downloads\ddns\src\DDNS.Api\obj\Debug\netcoreapp3.1\DDNS.Api.pdb
